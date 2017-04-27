@@ -6,4 +6,4 @@ Minimal and clean example implementations of data structures and algorithms in N
 ## List of Implementations
 
 - [array](array)  
-    - [flatten](algo/arrays/flatten.js)
+    - [flatten](algo/arrays/list_flatten.js)
