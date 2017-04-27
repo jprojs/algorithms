@@ -1,0 +1,24 @@
+{
+  "name": "algorithms",
+  "version": "0.0.1",
+  "description": "Minimal and clean example implementations of data structures and algorithms in Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jprojs/algorithms.git"
+  },
+  "keywords": [
+    "nodejs",
+    "algorithms",
+    "structures"
+  ],
+  "author": "jprojs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jprojs/algorithms/issues"
+  },
+  "homepage": "https://github.com/jprojs/algorithms#readme"
+}
